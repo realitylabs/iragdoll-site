@@ -27,7 +27,7 @@ If you are a resident of the European Economic Area (EEA), you have certain righ
 - Request the deletion of any personal data (if applicable).
 - File a complaint with your local data protection authority.
 
-If you have any concerns about your data privacy, please contact us at [support@realitylabs.se](support@realitylabs.se).
+If you have any concerns about your data privacy, please email us at [support@realitylabs.se](mailto:support@realitylabs.se).
 
 ## Children’s Privacy
 iRagdoll does not knowingly collect personal information from children under the age of 13 (or the minimum age required in your jurisdiction). If you believe a child has provided us with personal information, please contact us, and we will promptly delete the information.
@@ -39,4 +39,4 @@ While iRagdoll does not collect any personal information, we take reasonable mea
 iRagdoll does not integrate with or rely on any third-party services that may collect data. If this changes in the future, this Privacy Policy will be updated accordingly and the updated version will be available through the app.
 
 ## Contact Us
-If you have any questions or concerns about this Privacy Policy, please email us at [support@realitylabs.se](support@realitylabs.se).
+If you have any questions or concerns about this Privacy Policy, please email us at [support@realitylabs.se](mailto:support@realitylabs.se).
