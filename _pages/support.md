@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-March 17 2024
+Jan 28 2025
 
 ## Contacting Us
-If you have any support questions regarding this app, you can contact us via email: support@realitylabs.se
+If you have any support-related questions about this app or need assistance, feel free to contact us via email at support@realitylabs.se
